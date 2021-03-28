@@ -25,7 +25,7 @@
 
     - 03-Rode o comando para compilar o arquivo em C
 
-            gcc main.c mapa.c ui.c -o main.out 
+            gcc main.c -o main.out 
 
     - 04-Rode o jogo
 
